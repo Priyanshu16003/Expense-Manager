@@ -1,0 +1,12 @@
+{
+  "name": "expense_manager",
+  "version": "1.0.0",
+  "description": "A Summer Intership Project on MERN Stack. An Expense Tracker app do track daily expense.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Priyanshu Tandel",
+  "license": "ISC"
+}
